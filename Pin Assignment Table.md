@@ -42,3 +42,5 @@ Reference: [Pololu 328PB Pinout](https://a.pololu-files.com/picture/0J8487.1200.
 | Motor Right DIR  | 15        |
 | Motor Right ENCA |  7        |
 | Motor Right ENCB | PE2       |
+
+Reference: [Pololu 32u4 User Guide](https://www.pololu.com/docs/0J69/3.3)
